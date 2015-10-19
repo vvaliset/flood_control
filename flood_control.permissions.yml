@@ -1,0 +1,3 @@
+administer site configuration:
+  title: Administer Flood Control System
+  description: Control flood control options for failed login attempts, contact forms, etc.

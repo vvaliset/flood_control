@@ -1,0 +1,6 @@
+flood_control.settings:
+  title: Flood Control
+  route_name: flood_control.settings
+  parent: system.admin_config_system
+  description: 'Flood Control System configuration.'
+  weight: -30

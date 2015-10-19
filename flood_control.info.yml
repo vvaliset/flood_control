@@ -1,0 +1,6 @@
+package: 'Flood control'
+name: 'Flood control'
+description: 'Provides a user interface for hidden flood control options.'
+type: module
+core: 8.x
+configure: flood_control.settings
