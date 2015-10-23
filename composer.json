@@ -1,0 +1,5 @@
+{
+  "name": "drupal/flood_control",
+  "description": "Provides a user interface for hidden flood control options.",
+  "type": "drupal-module"
+}
